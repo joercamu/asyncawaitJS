@@ -1,0 +1,15 @@
+{
+  "name": "asyncawait",
+  "version": "1.0.0",
+  "description": "project-test",
+  "main": "asyncawait.js",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "joercamu",
+  "license": "ISC"
+}
